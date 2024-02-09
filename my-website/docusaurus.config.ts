@@ -44,6 +44,7 @@ const config: Config = {
         parametersFormat: 'table',
         enumMembersFormat: 'table',
         typeDeclarationFormat: 'table',
+        sort: ['source-order'],
         indexFormat: 'table',
         textContentMappings: {
           'title.indexPage': 'API'
